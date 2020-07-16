@@ -1,3 +1,5 @@
+https://bettersolutions.com/vba/ribbon/code-snippets.htm
+
 Set MenuItem = NewMenu.Controls.Add _
   (Type:=msoControlButton)
 With MenuItem
